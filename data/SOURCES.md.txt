@@ -7,3 +7,12 @@
 - Series: Europe Brent Spot Price FOB and Cushing, OK WTI Spot Price FOB (US dollars per barrel)
 - Licence: U.S. government publication (public domain); repository data is released under the Public Domain Dedication and License
 - Downloaded: 5 November 2026
+
+
+## Energy production by country
+- Files: owid_energy.csv, owid_energy.codebook.csv
+- Publisher: Our World in Data (energy dataset, current version)
+- Link: https://catalog.ourworldindata.org/energy/owid_energy/owid_energy.csv
+- Underlying sources include the Energy Institute Statistical Review of World Energy and the U.S. EIA
+- Licence: Creative Commons BY (credit Our World in Data and the underlying sources)
+- Downloaded: 5 November 2026
