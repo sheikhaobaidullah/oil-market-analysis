@@ -16,3 +16,11 @@
 - Underlying sources include the Energy Institute Statistical Review of World Energy and the U.S. EIA
 - Licence: Creative Commons BY (credit Our World in Data and the underlying sources)
 - Downloaded: 5 November 2026
+
+## U.S. crude oil inventories
+- File: eia_weekly_stocks.xls
+- Publisher: U.S. Energy Information Administration (EIA), Weekly Stocks
+- Link: https://www.eia.gov/petroleum/ (Weekly Stocks table)
+- Series used: Commercial Crude Oil (Excl. Lease Stock), thousand barrels, weekly
+- Licence: U.S. government publication (public domain)
+- Downloaded: 5 November 2026
