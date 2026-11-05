@@ -1,0 +1,9 @@
+# Data sources
+
+## Brent and WTI oil prices
+- Files: [the file names you downloaded]
+- Publisher: U.S. Energy Information Administration (EIA), via the datasets/oil-prices repository
+- Link: https://github.com/datasets/oil-prices
+- Series: Europe Brent Spot Price FOB and Cushing, OK WTI Spot Price FOB (US dollars per barrel)
+- Licence: U.S. government publication (public domain); repository data is released under the Public Domain Dedication and License
+- Downloaded: 5 November 2026
