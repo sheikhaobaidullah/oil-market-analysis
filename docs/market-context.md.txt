@@ -1,0 +1,13 @@
+## Oil market context
+
+The oil price is set by the balance between supply, demand and inventories.
+Supply comes from producers worldwide. OPEC+ tries to manage its output,
+while US shale producers respond quickly to price changes and act as a
+counterweight. Demand follows the global economy: when demand is high,
+buyers compete for limited supply and prices rise, and when it falls,
+prices drop. Inventories are the buffer between the two. High stocks suggest
+supply is running ahead of demand, which tends to push prices down, and low
+stocks suggest a tight market, which tends to push prices up. In 2020, COVID
+lockdowns caused demand to collapse, stocks filled up, and prices fell
+sharply. This project examines how prices, production and inventories moved
+before, during and after that shock.
